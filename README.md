@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Th3B1gB4dW0lf a .NET developer from Hungary.
-- 👀 I’m interested in .NET/C# - ASP.NET Web APIs, Blazor, Azure, Godot
-- 🌱 I’m currently learning the Godot engine (I'm planning to create some basic games with it)
+- 👀 I’m interested in .NET/C# - ASP.NET Web APIs, Azure, AI, etc. 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
